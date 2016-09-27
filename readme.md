@@ -62,11 +62,15 @@ Side project "Cemetery Sprint" made it on the Donutron!
 
 DevNAri, Newt One (in development)
 -----------------
+![Newt One](https://pbs.twimg.com/media/Cq_p22XWcAAEery.jpg)
+at TEDx Minne 2016
+------------------
 ![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
-
+at MinneBar 2016
+----------------
 ![Minnebar](http://devjana.apps-1and1.com/wp-content/uploads/2016/04/ariWatchingArcade.jpg)
 
-[My MobyGa,es Profile](http://www.mobygames.com/developer/sheet/view/developerId,426845/)
+[My MobyGames Profile](http://www.mobygames.com/developer/sheet/view/developerId,426845/)
 
 ... but enough about me
 

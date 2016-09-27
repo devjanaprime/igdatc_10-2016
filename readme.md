@@ -113,7 +113,8 @@ Health Packs
 Personal failures
 -----------------
 
-Thanks, don't be lazy, and let's keep the convo going! [@devjana](https://twitter.com/devjana)
+Thanks, don't be lazy, and let's keep the convo going!
 ----------------------------------------------
 \#crapcrates \#igdatc
 =====================
+[@devjana](https://twitter.com/devjana)

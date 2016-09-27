@@ -112,6 +112,8 @@ Health Packs
 
 Personal failures
 -----------------
+* Newt Coins
+* Newt Lives
 
 Thanks, don't be lazy, and let's keep the convo going!
 ----------------------------------------------

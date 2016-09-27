@@ -73,6 +73,7 @@ at MinneBar 2016
 [My MobyGames Profile](http://www.mobygames.com/developer/sheet/view/developerId,426845/)
 
 Currently: Instructor/Software Engineer @ [Prime Digital Academy](http://primeacademy.io/)
+
 ![Prime](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/450/s300/prime-20logo-20color.png)
 
 [Prime in Strib 9-2016](http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/)

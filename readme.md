@@ -56,15 +56,17 @@ Die Hard Fan
 ------------
 ![Die Hard Fan](images/dhf.png)
 
-Side project made it on the Donutron!
+Side project "Cemetery Sprint" made it on the Donutron!
 -------------------------------------
 ![Donutron](http://devjana.net/wp-content/uploads/2016/04/cemeteryDOnutron.jpg)
 
-DevNAri, Newt One
+DevNAri, Newt One (in development)
 -----------------
 ![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
 
 ![Minnebar](http://devjana.apps-1and1.com/wp-content/uploads/2016/04/ariWatchingArcade.jpg)
+
+[My MobyGa,es Profile](http://www.mobygames.com/developer/sheet/view/developerId,426845/)
 
 ... but enough about me
 

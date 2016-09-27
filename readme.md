@@ -5,7 +5,7 @@ Taking things further and not being a lazy game designer
 
 by [@devjana](https://twitter.com/devjana)
 
-for [IGDATC]http://www.igdatc.org/
+for [IGDATC](http://www.igdatc.org/)
 
 Who am I and Why am I here?
 ---------------------------
@@ -28,7 +28,7 @@ MGM Iteractive/Cheyenne Mountain Games, Stargate Resistance (2010, PC)
 ------------------------
 ![Stargate Resistance](http://images.eurogamer.net/articles//a/8/6/8/9/6/8/stargate_resistance.jpg.jpg/EG11/resize/722x-1/format/jpg/free-stargate-resistance-hd-desktop-wallpaper.jpg)
 
-Solo project while tesching, Roy G Beats (2012, PC/Mac)
+Solo project while teaching, Roy G Beats (2012, PC/Mac)
 ------------------------
 ![Roy G Beats](http://1.bp.blogspot.com/-tWYUvz3VuqE/Tpm0Ak3licI/AAAAAAAAAAg/TtQ7fDIA2Dk/s1600/RoyGBeats_0_9c2+2011-10-07+13-50-44-04.jpg)
 

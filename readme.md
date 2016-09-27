@@ -110,7 +110,10 @@ Barrels
 Health Packs
 ------------
 
-Thanks and let's keep the convo going! [@devjana](https://twitter.com/devjana)
+Personal failures
+-----------------
 
+Thanks, don't be lazy, and let's keep the convo going! [@devjana](https://twitter.com/devjana)
+----------------------------------------------
 \#crapcrates \#igdatc
 =====================

@@ -77,6 +77,7 @@ Currently: Instructor/Software Engineer @ [Prime Digital Academy](http://primeac
 ![Prime](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/450/s300/prime-20logo-20color.png)
 
 [Prime in Strib 9-2016](http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/)
+
 ... but enough about me
 
 

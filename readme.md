@@ -46,10 +46,14 @@ Preferred Interactive, Web-based architectural rendering (2013-2014)
 
 Image Metrics, Augmented Reality mobile facial animation (2015-2016,iOS/Android)
 ---------------------------------------------------------------------
+Makeup Genius
+-------------
 ![MUG](images/mug.png)
-
+Turned
+------
 ![Turned](images/turned.png)
-
+Die Hard Fan
+------------
 ![Die Hard Fan](images/dhf.png)
 
 Side project made it on the Donutron!

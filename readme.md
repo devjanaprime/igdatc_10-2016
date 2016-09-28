@@ -61,8 +61,9 @@ Personal failures
 Next Steps Discussion
 ---------------------
 
-Thanks, don't be lazy, and let's keep the convo going!
+Thanks, don't be lazy, and let's keep the convo going
 -----------------------------------------------------
 \#lazygamedesign \#igdatc
 =========================
 [@devjana](https://twitter.com/devjana)
+=========================

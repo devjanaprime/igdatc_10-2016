@@ -10,17 +10,17 @@ for [IGDATC](http://www.igdatc.org/)
 Foundational game design stuff
 ==============================
 
-Extrinsic v Intrinsic (Dawn of Knowledge)
------------------------------------------
-![extrinsic vs intrinsic knowledge](images/extrinsicVsIntrinsic.png)
-
 "Flow State"
 ------------
-![Flow](http://peaksynergyfitness.com/wp-content/uploads/2016/08/flow.png)
+![Flow](images/flow.png)
 
 Time/Intensity Graph
 --------------------
 [Gamasutra Article](http://www.gamasutra.com/blogs/DevJana/20121127/182334/Back_to_basics__IntensityTime_graphs_and_balancing.php)
+
+Extrinsic v Intrinsic (Dawn of Knowledge)
+-----------------------------------------
+![extrinsic vs intrinsic knowledge](images/extrinsicVsIntrinsic.png)
 
 Modern Game Expectations
 ------------------------

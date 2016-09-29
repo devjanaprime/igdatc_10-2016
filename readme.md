@@ -49,17 +49,14 @@ Lazy Designs and Dinosaurs
 * Crates/barrels
 * Coins/Rings
 * Health Packs
-* Sewers
+* Sewer levels
 * Fetch Quests
 * What else?
 
 Personal failures
 -----------------
-* Newt Coins
-* Newt Lives
-
-Next Steps Discussion
----------------------
+* Newt One Coins
+* Newt One Lives
 
 Thanks, don't be lazy, and let's keep the convo going
 -----------------------------------------------------

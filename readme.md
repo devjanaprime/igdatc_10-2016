@@ -44,17 +44,18 @@ Case Study: Arkanoid
 
 ![ending boss battle](images/arkanoid_4_storyEnding.png)
 
-Lazy Designs and Dinosaurs
-==========================
-* Crates/barrels
-* Coins/Rings
-* Health Packs
-* Sewer levels
-* Fetch Quests
-* What else?
 
-Personal failures
------------------
+Consider:
+=========
+* Crates/Barrels
+* Health Packs
+* Sewer Levels
+* Match 3
+* Fetch Quests  
+* what else?
+
+Personal Failures
+=================
 * Newt One Coins
 * Newt One Lives
 

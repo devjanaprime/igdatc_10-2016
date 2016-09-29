@@ -7,16 +7,16 @@ by [@devjana](https://twitter.com/devjana)
 
 for [IGDATC](http://www.igdatc.org/)
 
-Foundational game design stuff
-==============================
-
-"Flow State"
-------------
-![Flow](images/flow.png)
+Foundational Game Design
+========================
 
 Time/Intensity Graph
 --------------------
 [Gamasutra Article](http://www.gamasutra.com/blogs/DevJana/20121127/182334/Back_to_basics__IntensityTime_graphs_and_balancing.php)
+
+"Flow State"
+------------
+![Flow](images/flow.png)
 
 Extrinsic v Intrinsic (Dawn of Knowledge)
 -----------------------------------------

@@ -2,6 +2,7 @@ All Your Creates Are Belong To Us
 =================================
 Taking things further and not being a lazy game designer
 --------------------------------------------------------
+![all your crates](images/allYourCrates.png)
 
 by [@devjana](https://twitter.com/devjana)
 
@@ -45,6 +46,9 @@ Case Study: Arkanoid
 ![ending boss battle](images/arkanoid_4_storyEnding.png)
 
 
+[Case Study: Tetris](http://www.gamasutra.com/blogs/DevJana/20150202/182335/Why_is_Tetris_a_mathematically_perfect_game_design_that_requires_no_tutorial.php)
+--------------------
+
 Consider:
 =========
 * Crates/Barrels
@@ -65,3 +69,4 @@ Thanks, don't be lazy, and let's keep the convo going
 =========================
 [@devjana](https://twitter.com/devjana)
 =========================
+![crates](images/crates.jpg)

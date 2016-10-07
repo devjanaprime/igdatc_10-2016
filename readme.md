@@ -60,8 +60,12 @@ Consider:
 
 Personal Failures
 =================
-* Newt One Coins
-* Newt One Lives
+* Newt One Coins/Lives
+
+![coins](http://i.imgur.com/IzUyEZX.gif)
+![notes](http://i.giphy.com/zmgRgFI3Xtvj2.gif)
+![extra life](http://i.giphy.com/cB4ukcrbK9lfi.gif)
+
 
 Thanks, don't be lazy, and let's keep the convo going
 -----------------------------------------------------

@@ -66,7 +66,7 @@ Personal Failures
 ![notes](http://i.giphy.com/zmgRgFI3Xtvj2.gif)
 ![extra life](http://i.giphy.com/cB4ukcrbK9lfi.gif)
 ![outfit change](http://i.giphy.com/Ev4FgzPIlk3Hq.gif)
-
+![outfits](images/outfits.png)
 
 Thanks, don't be lazy, and let's keep the convo going
 -----------------------------------------------------

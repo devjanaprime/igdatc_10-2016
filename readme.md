@@ -1,6 +1,6 @@
 All Your Creates Are Belong To Us
 =================================
-Taking things further and not being a lazy game designer
+aka Maybe avoiding rage quits while not being a lazy game designer
 --------------------------------------------------------
 ![all your crates](images/allYourCrates.png)
 
